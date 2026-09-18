@@ -51,22 +51,6 @@ The sum of the first and the last digit: 6
 
 ![Q3 output screenshot](docs/screenshots/q3-output.svg)
 
-## How to Compile and Run
-
-Use a C compiler such as GCC from this folder:
-
-```bash
-gcc Q1_Alphabet_Skipper.c -o q1
-./q1
-
-gcc Q2_Digit_Counter.c -o q2
-./q2
-
-gcc Q3_Digit_Addition.c -o q3
-./q3
-```
-
-On Windows, run the generated `.exe` file instead, for example `q1.exe`.
 
 ## Video Demonstration
 
