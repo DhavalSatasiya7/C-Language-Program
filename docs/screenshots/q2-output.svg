@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
+  <rect width="720" height="260" fill="#111827"/>
+  <rect x="22" y="22" width="676" height="216" rx="8" fill="#030712" stroke="#374151"/>
+  <text x="42" y="62" fill="#9ca3af" font-family="Consolas, monospace" font-size="18">Q2_Digit_Counter.exe</text>
+  <text x="42" y="112" fill="#f9fafb" font-family="Consolas, monospace" font-size="21">Enter any number: 58291</text>
+  <text x="42" y="150" fill="#f9fafb" font-family="Consolas, monospace" font-size="21">Total number of digits: 5</text>
+  <text x="42" y="198" fill="#6b7280" font-family="Consolas, monospace" font-size="16">Output screenshot</text>
+</svg>
