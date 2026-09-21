@@ -90,4 +90,4 @@ Source: `7.Custom_Alphabetic_Pattern.c`
 
 ## Video
 
-Video link: [Add the project demonstration video URL here](https://drive.google.com/drive/folders/1RvdyUEJPTE5Ujl3Dt1_lvDZUXM08JRZk?usp=sharing)
+Video link: [ project video ](https://drive.google.com/drive/folders/1RvdyUEJPTE5Ujl3Dt1_lvDZUXM08JRZk?usp=sharing)
